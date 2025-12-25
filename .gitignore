@@ -41,5 +41,5 @@
 *.dwo
 
 bilateral_sim
-.dat
-.png
+*.dat
+*.png
